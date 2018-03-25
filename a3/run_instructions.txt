@@ -1,0 +1,26 @@
+__Exercise 1, how to run:
+Go into folder: Exercise1, and execute "make"
+then use "./main" [Amount of threads] [Maximum value in range]
+./main 8 100000
+
+
+__Exercise 2, how to run:
+Go into folder: Exercise2, and execute "make"
+then use "./gol" [Array dimension] [Time steps] [Amount of threads]\n"
+example: ./gol 100000 4 8
+
+
+__Exercise 3, how to run:
+Go into folder: Exercise3, and execute "make all"
+
+1) for No pruning: then use 
+./Merge_sortNP [Array dimension] [Amount of threads]
+example: ./Merge_sortNP 100000000 8
+
+2) for Pruning: then use 
+./Merge_sortP  [Array dimension] [Amount of threads] [Threshold]
+example: ./Merge_sortP 100000000 8 2
+
+3) for One task spawn incl Pruning use:
+./Merge_sortS  [Array dimension] [Amount of threads] [Threshold]
+example: ./Merge_sortS 100000000 8 2
