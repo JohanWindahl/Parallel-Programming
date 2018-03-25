@@ -11,7 +11,9 @@ dining.cpp - Dining Philosophers
 
 ### **Assignment 2 - Threads and Locks:** ###
 
-	HowTo: Navigate to wished Exercise and type ”make” to compile the program. When the program is compiled, type ./main -h to get information about how to run the program.
+	To compile: Navigate to wished Exercise and type ”make” to compile the program. 
+	When the program is compiled, type ./main -h to get information about how to run 
+	each program.
 
 **2.1** - Numerical Integration
 
@@ -43,7 +45,6 @@ dining.cpp - Dining Philosophers
 
 **3.3** - Merge Sort Using OpenMP Tasks
 
-	
 	1) for No pruning: then use 
 	./Merge_sortNP [Array dimension] [Amount of threads]
 	example: ./Merge_sortNP 100000000 8
