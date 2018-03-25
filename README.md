@@ -1,5 +1,5 @@
 # Parallel-Programming #
-#### Language: C++ ####
+#### Language: C++ & C ####
 
 ### **Assignment 1 - Basic concepts:** ###
 
