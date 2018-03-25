@@ -39,6 +39,7 @@ dining.cpp - Dining Philosophers
 	./main 8 100000
 
 **3.2** - Conway’s Game of Life
+
 	Go to folder: Exercise2, and execute "make"
 	then use "./gol" [Array dimension] [Time steps] [Amount of threads]\n"
 	example: ./gol 100000 4 8
