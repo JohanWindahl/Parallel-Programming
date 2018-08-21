@@ -1,5 +1,8 @@
 # Parallel-Programming #
-#### Language: C++ & C ####
+Three assignments in course: Introduction to Parallel Programming - 1DL530
+
+**Language: C++ & C**
+
 
 ### **Assignment 1 - Basic concepts:** ###
 
